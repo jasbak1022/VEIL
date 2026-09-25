@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: dc5053e682b029817bb7d0d8e7015e73_cb0aa34db87011f1b172525400248c00
-    ReservedCode1: chjgHb7C9lYgp4qMMW5LmAnhUV0JXWM25rtMGhZBByFViWGV93KIWrcXKU7bxxD2pqgO4RC0gGsxxdda7W78lJMgX6U/A4IQL1x9ihE1Cv0wgQOgT68mBi0zBsHsaC6j3eyvJJw2rnXkum1jn/0AZg0Jdh+hY6di9zGA0wRrJNo7CXXwj78xFb+NWuU=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: dc5053e682b029817bb7d0d8e7015e73_cb0aa34db87011f1b172525400248c00
-    ReservedCode2: chjgHb7C9lYgp4qMMW5LmAnhUV0JXWM25rtMGhZBByFViWGV93KIWrcXKU7bxxD2pqgO4RC0gGsxxdda7W78lJMgX6U/A4IQL1x9ihE1Cv0wgQOgT68mBi0zBsHsaC6j3eyvJJw2rnXkum1jn/0AZg0Jdh+hY6di9zGA0wRrJNo7CXXwj78xFb+NWuU=
----
-
 # VEIL
 
 **基于 sing-box 内核的 Android 代理客户端**：支持规则 / 全局 / TUN 三种代理模式，可导入自备订阅与分享链接，在手机端完成节点管理、测速与连接。
@@ -147,7 +136,7 @@ AIGC:
 | minSdk / targetSdk | 26（Android 8.0）/ 34（Android 14） |
 | 安装包 | app-release.apk，83,826,825 字节（约 79.9 MB），arm64-v8a |
 
-本版本的具体改动见 [RELEASE_NOTES_v0.4.3.md](<C:\Users\Administrator\AppData\Roaming\Tencent\Marvis\User\oAN1i2Zb2oIzPO8bUTvgfttfuIdo\workspace\conv_679f40f7d2374a06a3dc819a5af88cfa\output\RELEASE_NOTES_v0.4.3.md>)；应用内「设置 - 更新日志」亦可查看历史版本记录。
+本版本的具体改动见 [v0.4.3 Release 说明](https://github.com/jasbak1022/VEIL/releases/tag/v0.4.3)；应用内「设置 - 更新日志」亦可查看历史版本记录。
 
 ---
 
@@ -169,6 +158,18 @@ AIGC:
 
 ---
 
+## 赞赏支持
+
+VEIL 完全免费，无广告、无内置节点，开发与维护均由个人在业余时间完成。如果它对你有帮助，欢迎扫码赞赏支持（抖音赞赏码）：
+
+<p align="center">
+  <img src="assets/donate-qr.jpg" alt="抖音赞赏码 - 感谢老板打赏" width="260">
+</p>
+
+赞赏完全出于自愿，不影响任何功能的可用性；收到支持会优先用于后续版本的维护与优化。
+
+---
+
 ## 免责声明
 
 1. 本应用仅供个人学习与技术研究使用，请勿用于任何违反当地法律法规的用途。
@@ -178,4 +179,3 @@ AIGC:
 5. 使用本应用即表示已阅读并同意上述声明。
 
 反馈渠道：Telegram 频道 `t.me/Jasbak2026`，Telegram 群组 `t.me/+Ge180qJxcTUwNDU1`。
-*（内容由AI生成，仅供参考）*
